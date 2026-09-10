@@ -1639,7 +1639,7 @@ Date,Time,Battery_percent,BatteryVoltage_V,Estimate,Event,Duration,Sensors,GPS,N
 2026-09-04,08:54,,,,Install Update,,,,"Install update v27.18"
 2026-09-04,08:59,,,,Restart,,,,"Install update v27.18"
 2026-09-04,09:01,64,,12,,,,,
-2026-09-04,13:25,,,,Track Run,33:16,"Tempe, H10, Styrd","All-systems",
+2026-09-04,13:25,,,,Track Run,33:16,"H10, Tempe, Styrd","All-systems",
 2026-09-04,13:30,61,3.961,,Track Run,,,,T=33C
 2026-09-04,13:35,61,3.959,,Track Run,,,,T=33C
 2026-09-04,13:40,61,3.955,,Track Run,,,,T=33C
@@ -1665,7 +1665,7 @@ Date,Time,Battery_percent,BatteryVoltage_V,Estimate,Event,Duration,Sensors,GPS,N
 2026-09-08,07:21,78,4.136,,Track Run,,,,T=29C
 2026-09-08,07:26,77,4.123,,Track Run,,,,T=30C
 2026-09-08,08:14,76,,14,,,,,
-2026-09-08,13:10,75,4.124,,Strength,55:36,"Tempe, H10",Off,T=29C
+2026-09-08,13:10,75,4.124,,Strength,55:36,"H10, Tempe",Off,T=29C
 2026-09-08,13:11,75,4.124,,Strength,,,,T=29C
 2026-09-08,13:16,75,4.126,,Strength,,,,T=27C
 2026-09-08,13:21,75,4.122,,Strength,,,,T=26C
@@ -1678,7 +1678,7 @@ Date,Time,Battery_percent,BatteryVoltage_V,Estimate,Event,Duration,Sensors,GPS,N
 2026-09-08,14:01,74,4.115,,Strength,,,,T=26C
 2026-09-08,15:08,73,,14,,,,,
 2026-09-09,09:03,68,,13,,,,,
-2026-09-09,13:11,,,,Track Run,1:02:21,HRM+Power+Stryd+Tempe+Stryd Power,All-systems,
+2026-09-09,13:11,,,,Track Run,1:02:21,"H10, Tempe, Stryd",All-systems,
 2026-09-09,13:16,66,4.003,,Track Run,,,,T=33C
 2026-09-09,13:21,65,3.993,,Track Run,,,,T=34C
 2026-09-09,13:26,65,3.984,,Track Run,,,,T=35C
@@ -1692,3 +1692,17 @@ Date,Time,Battery_percent,BatteryVoltage_V,Estimate,Event,Duration,Sensors,GPS,N
 2026-09-09,14:06,61,3.959,,Track Run,,,,T=35C
 2026-09-09,14:11,61,3.950,,Track Run,,,,T=36C
 2026-09-09,15:32,60,,11,,,,,
+2026-09-10,07:05,55,3.902,,Track Run,19:20,"H10, Tempe, Stryd",All-systems,T=30C
+2026-09-10,07:06,55,3.902,,Track Run,,,,T=30C
+2026-09-10,07:16,55,3.896,,Track Run,,,,T=29C
+2026-09-10,07:21,54,3.896,,Track Run,,,,T=29C
+2026-09-10,13:13,,,,Cardio,51:20,"H10, Tempe",Off,
+2026-09-10,13:16,52,3.876,,Cardio,,,,T=27C
+2026-09-10,13:21,51,3.876,,Cardio,,,,T=26C
+2026-09-10,13:31,51,3.871,,Cardio,,,,T=24C
+2026-09-10,13:36,51,3.870,,Cardio,,,,T=24C
+2026-09-10,13:41,51,3.876,,Cardio,,,,T=24C
+2026-09-10,13:51,50,3.876,,Cardio,,,,T=25C
+2026-09-10,13:56,50,3.871,,Cardio,,,,T=25C
+2026-09-10,14:01,50,3.875,,Cardio,,,,T=25C
+2026-09-10,15:17,49,,9,,,,,
