@@ -1844,3 +1844,9 @@ Date,Time,Battery_percent,BatteryVoltage_V,Estimate,Event,Duration,Sensors,GPS,N
 2026-09-24,05:57,60,3.925,,Run,,,,T=28C
 2026-09-24,06:02,59,3.924,,Run,,,,T=28C
 2026-09-24,08:48,56,,11,,,,,
+2026-09-25,07:04,,,,Track Run,26:06,"H10, Tempe, Stryd",All-systems,
+2026-09-25,07:12,49,3.853,,Track Run,,,,T=29C
+2026-09-25,07:17,49,3.855,,Track Run,,,,T=29C
+2026-09-25,07:22,48,3.851,,Track Run,,,,T=29C
+2026-09-25,07:27,48,3.846,,Track Run,,,,T=29C
+2026-09-25,08:48,47,,9,,,,,
