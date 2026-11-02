@@ -2181,6 +2181,14 @@ Date,Time,Battery_percent,BatteryVoltage_V,Estimate,Event,Duration,Sensors,GPS,N
 2026-10-29,13:58,35,3.796,,Cardio,,,,T=26C
 2026-10-29,15:51,34,,6,"Charging",,,,
 2026-10-29,16:39,79,,15,"Unplugged",,,,
+2026-10-30,07:04,,,,Track Run,35:42,"H10, Tempe, Stryd",All-systems,
+2026-10-30,07:10,74,4.097,,Track Run,,,,T=27C
+2026-10-30,07:15,74,4.090,,Track Run,,,,T=26C
+2026-10-30,07:20,73,4.081,,Track Run,,,,T=26C
+2026-10-30,07:25,73,4.074,,Track Run,,,,T=26C
+2026-10-30,07:30,72,4.066,,Track Run,,,,T=26C
+2026-10-30,07:35,72,4.064,,Track Run,,,,T=25C
+2026-10-30,07:40,71,4.063,,Track Run,,,,T=26C
 2026-10-31,06:06,,,,Run,57:12,"H10, Tempe, Stryd",All-systems Multiband,
 2026-10-31,06:10,63,3.975,,Run,,,,T=28C
 2026-10-31,06:15,63,3.965,,Run,,,,T=27C
@@ -2193,3 +2201,11 @@ Date,Time,Battery_percent,BatteryVoltage_V,Estimate,Event,Duration,Sensors,GPS,N
 2026-10-31,06:50,59,3.931,,Run,,,,T=26C
 2026-10-31,06:55,58,3.853,,Run,,,,T=26C
 2026-10-31,07:00,58,3.911,,Run,,,,T=26C
+2026-10-31,08:04,,,,Install Update,,,,"Install update v27.18"
+2026-10-31,08:06,,,,Restart,,,,"Install update v27.18"
+2026-10-31,08:06,54,,10,,,,,
+2026-11-02,07:00,42,3.818,,Track Run,26:27,"H10, Tempe, Stryd",All-systems,T=29C
+2026-11-02,07:05,41,3.815,,Track Run,,,,T=28C
+2026-11-02,07:10,41,3.807,,Track Run,,,,T=27C
+2026-11-02,07:15,41,3.805,,Track Run,,,,T=27C
+2026-11-02,07:25,40,3.799,,Track Run,,,,T=27C
